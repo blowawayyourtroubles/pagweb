@@ -1,0 +1,70 @@
+
+
+   *{
+padding: 0;
+margin: 0;
+text-decoration: none;
+list-style: none;  
+box-sizing: border-box;
+}
+
+
+nav{
+
+
+background: rgb(13, 20, 28);
+height: 80px;
+width: 100%;
+}
+
+label.logo{
+
+color: rgb(240, 228, 178);
+font-size: medium;
+line-height: 80px;
+padding: 0 100px;
+font-weight: bold;
+  }
+
+  nav ul{
+
+float: right;
+margin-right: 20px;
+
+  }
+
+
+  nav ul li{
+
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+
+  }
+
+  nav ul li a{
+
+color: rgb(13, 20, 28);
+font-size: 17px;
+padding: 7px 13px;
+border-radius: 3px;
+text-transform: uppercase;  
+}
+
+button {
+  
+    color: rgb(191, 32, 38);
+    background-color: rgb(189, 184, 163);
+    height: 20px; width: 75px;
+    position: fixed;
+    border-radius: 20px;
+    font-family: Roboto;
+
+}
+
+
+body{
+
+background-color: rgb(189, 184, 163);
+
+}

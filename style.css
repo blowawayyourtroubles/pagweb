@@ -1,0 +1,46 @@
+.top4 {
+    color: rgb(191, 32, 38);
+  text-align: left;
+  font-family:  Helvetica;
+  }
+  
+  body {
+      background-color: rgb(13, 20, 28);
+      color: rgb(240, 228,178);
+  }
+  
+  #p1{
+
+text-align: justify;
+font-family:  Medium;
+
+  }
+  
+  button {
+  
+      color: rgb(240, 228, 178);
+      background-color: rgb(191, 32, 38);
+      height: 50px; width: 100px;
+      position: fixed;
+      border-radius: 25px;
+      font-family: Roboto;
+  
+  }
+
+
+  
+
+        
+.album {
+
+height: 100px; width: 350px;
+border-radius: 25px;
+background-color: rgb(240, 228, 178);
+
+}
+
+.titulo1 {
+
+    background-color: rgb(191, 32, 38);
+    text-align: center;
+}
